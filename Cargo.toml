@@ -1,0 +1,15 @@
+[package]
+name = "oprun"
+version = "0.0.1"
+authors = [
+    "txello <txello7@proton.me>"
+]
+license = "Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/txello/oprun"
+homepage = "https://github.com/txello/oprun"
+description = "Rust API executor"
+keywords = ["API", "executor", "exec"]
+edition = "2024"
+
+[dependencies]
